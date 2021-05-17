@@ -1,5 +1,5 @@
 /* 
-  Full Names  : Lihle Mbili 
+  Full Names  : Lihle Mbilini
 
   Student number : 219383685
 
